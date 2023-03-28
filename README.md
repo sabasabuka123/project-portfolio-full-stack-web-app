@@ -1,2 +1,2 @@
 # project-portfolio-full-stack-web-app
-simple registration form with HTML , connection with local database, (backend) and email automatically 
+simple registration form with HTML , connection with local database, (backend) and sending emails automatically 
